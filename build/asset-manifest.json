@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d04fa17.css",
+    "main.js": "/static/js/main.5b83f98f.js",
+    "static/media/Deakin.jpg": "/static/media/Deakin.8ed8ea0bd9c0bfbadd4b.jpg",
+    "index.html": "/index.html",
+    "main.5d04fa17.css.map": "/static/css/main.5d04fa17.css.map",
+    "main.5b83f98f.js.map": "/static/js/main.5b83f98f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d04fa17.css",
+    "static/js/main.5b83f98f.js"
+  ]
+}
